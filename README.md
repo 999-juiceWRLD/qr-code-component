@@ -1,6 +1,7 @@
 # Frontend Mentor - QR Code Component Solution 
 
-- This is my first submission for [frontend mentor](https://www.frontendmentor.io/home) challenges. 
+- This is my first submission for [frontend mentor](https://www.frontendmentor.io/home) challenges.
+- [Here is the link](https://meek-pasca-cf11e8.netlify.app/)
 
 - It's a simple QR Code Implementation.
 
