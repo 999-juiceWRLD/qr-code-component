@@ -4,12 +4,12 @@
 
 - It's a simple QR Code Implementation.
 
-## Built With
+Built With:
 
 - This is just built with HTML and CSS.
 - Flexbox
 - CSS Grid
 
-## Screenshot
+Screenshot:
 
 ![screenshot of component](qr-code-screenshot.png)
